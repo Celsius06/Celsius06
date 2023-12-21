@@ -1,4 +1,4 @@
-Big2! I'm Celsius06 a.k.a Thuan Nguyen
+Hi there! I'm Celsius06
 
 <!--
 **Celsius06/Celsius06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
