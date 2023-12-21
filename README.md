@@ -7,21 +7,20 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=FucktheKingcode&label=Profile%20views&color=0e75b6&style=flat" alt="FucktheKingcode" />
+  <img src="https://komarev.com/ghpvc/?username=Celsius06&label=Profile%20views&color=0e75b6&style=flat" alt="Celsius06" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/sIfLhexLUqwik/giphy.gif">
 
 - 📫 How to reach me: **thuannm0426@gmail.com**
-- ⚡ Fun fact: **Not for now xD**
+- ⚡ Fun fact: **Nothing xD**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/nguyenthuan2406" target="blank">
+  <a href="https://www.linkedin.com/in/nguyenthuan2406" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Celsius06" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/hidro.nthn" target="blank">
+  <a href="https://facebook.com/hidro.nthn" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Celsius06" height="30" width="40" />
   </a>
 </p>
