@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Celsius06 a.k.a Thuan Nguyen</h1>
+<h1 align="center">Hi there, I'm Celsius06 🐼</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
