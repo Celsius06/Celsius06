@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![image](https://github.com/Celsius06/Celsius06/assets/98211917/34ed6820-0a45-4810-9b1e-2461beb36745)
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Celsius06/Celsius06/blob/main/nyanmeow.gif)https://github.com/Celsius06/Celsius06/blob/main/nyanmeow.gif)
 
