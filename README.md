@@ -12,31 +12,45 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFsemEzMDkwd2dzeWJ5Zm1oZG9uNXd5dzJpMDNwMGtuN3EwdWFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
 
+---
+
 <h3 align="left">About Me</h3> 
 
 - **I'm currently a 3rd-year university student pursuing the Computer Science major.**
 - **My target is to become a full-stack developer.**
 
-<!-- Divider -->
-<hr style="border: 1px groove #000;">
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
 </p>
 
-<!-- Divider -->
-<hr style="border: 1px inset #000;">
+---
 
 <h3 align="left">My Stats (up-to-date):</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Celsius06&show_icons=true&locale=en" alt="Celsius06 stats" style="width: 39%; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Celsius06&show_icons=true&locale=en&layout=compact" alt="Celsius06 top languages" style="width: 35%; display: inline-block;" />
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1; min-width: 300px; height: 200px;">
+        <p align="left" style="margin: 0;">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Celsius06&theme=dark&background=000000&hide_border=true" alt="GitHub Streak" style="width: 50%; height: 50%; border: none;"/>
+    </a>
+  </div>
+  <div style="flex: 2; min-width: 300px; height: 200px;">
+        <p align="left" style="margin: 0;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celsius06&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" style="width: 50%; height: 40%; border: none;"/>
+    </a>
+  </div>
+  <div style="flex: 3; min-width: 300px; height: 200px;">
+    <p align="left" style="margin: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Celsius06&show_icons=true&locale=en&theme=dark" alt="Celsius06 stats" style="width: 50%; height: 50%;"/>
+    </p>
+  </div>
 </div>
 
-<!-- Divider -->
-<hr style="border: 1px solid #000;">
+---
 
 <h3 align="left">Contact Information</h3>
 <p>
