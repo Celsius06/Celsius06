@@ -12,16 +12,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFsemEzMDkwd2dzeWJ5Zm1oZG9uNXd5dzJpMDNwMGtuN3EwdWFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
 
-<!-- Divider -->
-<hr style="border: 1px solid #0000FF;">
-
 <h3 align="left">About Me</h3> 
 
-- **I'm currently a 3rd year university student pursuing the Computer Science major.**
+- **I'm currently a 3rd-year university student pursuing the Computer Science major.**
 - **My target is to become a full-stack developer.**
 
 <!-- Divider -->
-<hr style="border: 1px solid #000;">
+<hr style="border: 1px groove #000;">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,9 +26,9 @@
 </p>
 
 <!-- Divider -->
-<hr style="border: 1px solid #000;">
+<hr style="border: 1px inset #000;">
 
-<h3 align="left">My Stats so far :</h3>
+<h3 align="left">My Stats (up-to-date):</h3>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Celsius06&show_icons=true&locale=en" alt="Celsius06 stats" style="width: 39%; display: inline-block;" />
