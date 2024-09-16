@@ -18,6 +18,17 @@
 
 - **I'm currently a 3rd-year university student pursuing the Computer Science major.**
 - **My target is to become a full-stack developer.**
+- **Currently, I am focusing on developing my understandings about Java and its frameworks to build applications in the future.**
+- **I have experience working on various projects involving Java, including web applications and desktop software.**
+- **I'm excited about exploring new technologies and improving my skills in both frontend and backend development.**
+- **I actively participate in coding challenges and contribute to open-source projects to enhance my problem-solving abilities.**
+- **My goal is to leverage my skills in Java and other technologies to develop innovative and user-friendly software.**
+
+<h3 align="left">Contact Information</h3>
+<p>
+  <a href="https://www.linkedin.com/in/nguyenthuan2406" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Celsius06" height="30" width="40" /></a>
+  <a href="https://facebook.com/hidro.nthn" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Celsius06" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -51,9 +62,3 @@
 </div>
 
 ---
-
-<h3 align="left">Contact Information</h3>
-<p>
-  <a href="https://www.linkedin.com/in/nguyenthuan2406" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Celsius06" height="30" width="40" /></a>
-  <a href="https://facebook.com/hidro.nthn" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Celsius06" height="30" width="40" /></a>
-</p>
