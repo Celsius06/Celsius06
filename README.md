@@ -22,7 +22,6 @@
 - **I have experience working on various projects involving Java, including web applications and desktop software.**
 - **I'm excited about exploring new technologies and improving my skills in both frontend and backend development.**
 - **I actively participate in coding challenges and contribute to open-source projects to enhance my problem-solving abilities.**
-- **My goal is to leverage my skills in Java and other technologies to develop innovative and user-friendly software.**
 
 <h3 align="left">Contact Information</h3>
 <p>
